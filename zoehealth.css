@@ -229,8 +229,9 @@ nav > ul > li{
 }
 .card > img{
   display: block;
-  margin: auto;
-  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 .nav-img{
   border-radius: 50%;
