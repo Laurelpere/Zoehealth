@@ -228,11 +228,19 @@ nav > ul > li{
 .main-head{
   font-size: 50px;
 }
+  .card {
+  display: flex;
+  justify-content: center;
+  border: 0;
+  width: 100%;
+  height: auto;
+  margin-bottom: 50px;
+}
 .card > img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 80%;
 }
 .nav-img{
   border-radius: 50%;
