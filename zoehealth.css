@@ -67,7 +67,7 @@ nav > ul{
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  font-size: 30px;
+  font-size: 25px;
   margin: auto;
 }
 nav > ul > li{
@@ -85,6 +85,7 @@ ul{
 .second-nav{
   background-color: gray;
   margin-top: 70px;
+  margin-bottom: 70px;
   max-width: 100%;
   height: auto;
 }
@@ -93,7 +94,7 @@ header{
   width: 100%;
   height: 500px;
   margin-bottom: 30px;
-  margin-top: 60px;
+  margin-top: 200px;
   background-image: linear-gradient(to right, #226105, #FA9617);
 }
 header:hover{
@@ -208,7 +209,7 @@ p, ol{
  nav > ul{
   display: flex;
   flex-wrap: wrap;
-  font-size: 10px;
+  font-size: 20px;
   padding-left: 30px;
   padding-right: 30px;
 }
