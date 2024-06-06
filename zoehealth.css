@@ -156,7 +156,8 @@ p, ol{
   image-rendering: smooth;
 }
 .general{
-  padding-left: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 .card {
   display: flex;
