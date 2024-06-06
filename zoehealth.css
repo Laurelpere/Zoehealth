@@ -155,6 +155,9 @@ p, ol{
   opacity: 1;
   image-rendering: smooth;
 }
+.section-item{
+  padding-left: 50px;
+}
 .card {
   display: flex;
   justify-content: center;
